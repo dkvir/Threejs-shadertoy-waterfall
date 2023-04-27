@@ -1,0 +1,18 @@
+@use "sass:math";
+
+$default-timing-speed: 0.15s;
+$default-timing-func: ease-in-out;
+
+$body-fade-in-time: 0.75s;
+
+$colors: (
+  "white": #fff,
+  "black":#000,
+  "bittersweet": #ff6865,
+  "burning-orange": #ff6f40,
+  "violet": #ff8ba0,
+  "casting-sea": #620080,
+  "pale-red":#E24B4B,
+);
+
+$fonts: "Monarch", "FiraGOLight";
